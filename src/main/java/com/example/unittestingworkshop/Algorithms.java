@@ -102,7 +102,7 @@ public class Algorithms {
     /**
      * This method checks if a given string has any repeated characters.
      *
-     * @param inputString The input string to be checked for repeated characters.
+     * @param inputString The input string to be checked for repeated characters. all characters must be ASCII
      * @return True if the input string has repeated characters, otherwise false.
      */
     public static boolean hasRepeatedCharacters(String inputString) {
